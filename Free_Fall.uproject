@@ -2,12 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.25",
 	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "Free_Fall_Demp2",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	]
+	"Description": ""
 }
